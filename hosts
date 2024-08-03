@@ -1,2 +1,2 @@
-3.88.54.0
-18.215.253.120
+3.88.54.0 ansible_connection=local 
+18.215.253.120 ansible_connection=local
